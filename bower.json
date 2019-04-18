@@ -1,0 +1,17 @@
+{
+  "name": "admin_cinema_css",
+  "version": "1.0.1",
+  "authors": [
+    "Nguyen Linh "
+  ],
+  "description": "admin cinema css",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nguyenlinh2108/admin_cinema_css.git",
+  "ignore": [
+    "README.md"
+  ]
+}
